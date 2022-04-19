@@ -1,0 +1,18 @@
+.navbar {
+    background-color: #fccf03;
+}
+
+.navbar-nav .nav-item{
+    font-size: larger;
+    
+} 
+
+.blocos {
+    text-align: center;
+    padding: 15px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+}
